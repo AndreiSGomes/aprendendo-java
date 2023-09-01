@@ -2,9 +2,8 @@
 
 Repositório destinado a todos projetos criados durante o aprendizado de Java
 
-- [Projeto 01]()
-- [Projeto 02]()
-- [Projeto 03]()
+- [Desafio 01 - Simulando conta bancária](https://github.com/AndreiSGomes/aprendendo-java/tree/main/conta-banco)
+
 
 
 
